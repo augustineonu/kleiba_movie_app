@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302015738874",
+    "project_id": "kleiba-d2a52",
+    "storage_bucket": "kleiba-d2a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302015738874:android:69b0cf35f250d3bf3daa43",
+        "android_client_info": {
+          "package_name": "com.example.kleiba_flutter_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUso5kKuMtUFLv-odN_VtVqcqCv51mqTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
